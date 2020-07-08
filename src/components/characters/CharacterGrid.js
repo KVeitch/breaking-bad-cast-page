@@ -1,9 +1,9 @@
 import React from 'react'
-
+import CharacterItem from './CharacterItem'
 function CharacterGrid({items, isLoading}) {
   return isLoading ? <h1>loading</h1> : <section className='cards'>
   {items.map(item => (
-    <h1>{item.name}</h1>
+    <CharacterItem item={item} key={item.char_id} />
   ))}
 </section>
 }
