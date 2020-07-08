@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/breaking-bad-cast-page/static/css/main.464a0380.chunk.css",
-    "main.js": "/breaking-bad-cast-page/static/js/main.87260369.chunk.js",
-    "main.js.map": "/breaking-bad-cast-page/static/js/main.87260369.chunk.js.map",
+    "main.css": "/breaking-bad-cast-page/static/css/main.582e9444.chunk.css",
+    "main.js": "/breaking-bad-cast-page/static/js/main.316283b9.chunk.js",
+    "main.js.map": "/breaking-bad-cast-page/static/js/main.316283b9.chunk.js.map",
     "runtime-main.js": "/breaking-bad-cast-page/static/js/runtime-main.0534deaf.js",
     "runtime-main.js.map": "/breaking-bad-cast-page/static/js/runtime-main.0534deaf.js.map",
-    "static/js/2.9cbbf616.chunk.js": "/breaking-bad-cast-page/static/js/2.9cbbf616.chunk.js",
-    "static/js/2.9cbbf616.chunk.js.map": "/breaking-bad-cast-page/static/js/2.9cbbf616.chunk.js.map",
+    "static/js/2.8771553f.chunk.js": "/breaking-bad-cast-page/static/js/2.8771553f.chunk.js",
+    "static/js/2.8771553f.chunk.js.map": "/breaking-bad-cast-page/static/js/2.8771553f.chunk.js.map",
     "index.html": "/breaking-bad-cast-page/index.html",
-    "precache-manifest.7d4243658a1a601ff49d6a176799cd51.js": "/breaking-bad-cast-page/precache-manifest.7d4243658a1a601ff49d6a176799cd51.js",
+    "precache-manifest.c7e0048ebd5f67f8c0ce009e8bd032db.js": "/breaking-bad-cast-page/precache-manifest.c7e0048ebd5f67f8c0ce009e8bd032db.js",
     "service-worker.js": "/breaking-bad-cast-page/service-worker.js",
-    "static/css/main.464a0380.chunk.css.map": "/breaking-bad-cast-page/static/css/main.464a0380.chunk.css.map",
-    "static/js/2.9cbbf616.chunk.js.LICENSE.txt": "/breaking-bad-cast-page/static/js/2.9cbbf616.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/breaking-bad-cast-page/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/breaking-bad-cast-page/static/media/logo.3795f66d.png",
+    "static/css/main.582e9444.chunk.css.map": "/breaking-bad-cast-page/static/css/main.582e9444.chunk.css.map",
+    "static/js/2.8771553f.chunk.js.LICENSE.txt": "/breaking-bad-cast-page/static/js/2.8771553f.chunk.js.LICENSE.txt",
     "static/media/spinner.gif": "/breaking-bad-cast-page/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.0534deaf.js",
-    "static/js/2.9cbbf616.chunk.js",
-    "static/css/main.464a0380.chunk.css",
-    "static/js/main.87260369.chunk.js"
+    "static/js/2.8771553f.chunk.js",
+    "static/css/main.582e9444.chunk.css",
+    "static/js/main.316283b9.chunk.js"
   ]
 }
