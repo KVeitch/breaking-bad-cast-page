@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 
-const Search = ({getQuery}) => {
-  const [text, setText] = useState('')
-  const handleChange = (query)=>{
-    setText(query)
-    getQuery(query)
-  }
+const Search = ({ getQuery }) => {
+  const [text, setText] = useState('');
+  const handleChange = (query) => {
+    setText(query);
+    getQuery(query);
+  };
 
   return (
     <section className='search'>
@@ -14,7 +14,7 @@ const Search = ({getQuery}) => {
           type='text'
           className='formControl'
           placeholder='Search characters'
-          onChange={(e)=>handleChange(e.target.value)}
+          onChange={(e) => handleChange(e.target.value)}
           autoFocus
         ></input>
       </form>

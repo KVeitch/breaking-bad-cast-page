@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-function CharacterItem({item}) {
+function CharacterItem({ item }) {
   return (
     <div className='card'>
       <div className='card-inner'>
@@ -26,7 +26,7 @@ function CharacterItem({item}) {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default CharacterItem
+export default CharacterItem;
