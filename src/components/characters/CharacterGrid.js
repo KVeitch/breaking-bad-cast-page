@@ -1,7 +1,11 @@
 import React from 'react'
 
 function CharacterGrid({items, isLoading}) {
-  return 'Hello'
+  return isLoading ? <h1>loading</h1> : <section className='cards'>
+  {items.map(item => (
+    <h1>{item.name}</h1>
+  ))}
+</section>
 }
 
 export default CharacterGrid
