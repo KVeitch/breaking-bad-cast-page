@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../images/logo.png';
+const logo = 'https://github.com/KVeitch/breaking-bad-cast-page/blob/master/src/images/logo.png?raw=true';
 
 const Header = () => {
   return (
